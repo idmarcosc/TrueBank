@@ -195,3 +195,20 @@ body{
   margin-bottom: 2rem;
   font-size: 2.5rem;
 }
+.iconBox1, .iconBox2, .iconBox3{
+  width: 0rem; 
+  height: 0rem; 
+  border-top: 1.5rem solid transparent;
+  border-bottom: 1.5rem solid #3734A9;
+  border-left: 1.5rem solid transparent;
+}
+
+.iconBox1{
+  border-right: 1.5rem solid red;
+}
+.iconBox2{
+  border-right: 1.5rem solid #FDBC64;
+}
+.iconBox3{
+  border-right: 1.5rem solid #52F5D8;
+}
