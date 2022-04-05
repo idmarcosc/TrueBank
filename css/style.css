@@ -215,6 +215,11 @@ body{
 .container2{
   display: flex;
 }
+.container1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 .back{
   background-color: #DFF6FF;
   padding: 1rem 2rem;
