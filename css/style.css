@@ -177,7 +177,7 @@ body{
 }
 
 .boxs{
-  margin-top: 5rem;
+  margin-top: 12rem;
   display: flex;
   gap: 2rem;
 }
@@ -218,7 +218,6 @@ body{
 .container1{
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 .back{
   background-color: #DFF6FF;
@@ -277,4 +276,36 @@ body{
 
 .desc{
   font-size: 1.3rem;
+}
+
+footer{
+  max-width: 1200px;
+  margin: auto;
+  padding-top: 30rem ;
+  display: flex;
+  justify-content: space-between;
+}
+footer ul li{
+  list-style: none;
+}
+footer ul li a{
+  text-decoration: none;
+  color: black;
+}
+.text2 h3{
+  font-size: 3.5rem;
+  margin: 2rem 0rem;
+}
+.text2 > p{
+  margin: 2rem 0rem;
+}
+.chek2{
+  margin-top: 1rem;
+}
+.chek2 p{
+margin-top: 0.4rem;
+}
+.chek2 p span {
+  color: orange;
+  margin-right: 0.5rem;
 }
